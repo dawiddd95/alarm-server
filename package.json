@@ -1,7 +1,7 @@
 {
   "name": "alarm-server",
-  "version": "1.0.0",
-  "description": "WebSocket server for Sound Alarm app",
+  "version": "2.0.0",
+  "description": "WebSocket server for Sound Alarm app with location tracking",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
